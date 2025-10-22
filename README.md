@@ -1,5 +1,5 @@
 ## 💫 ABOUT ME:
-#---
+
 I'm a primarily front-end developer with experience working with HTML/CSS, JavaScript, and Python
 <br>
 Currently exploring back-end programming, with a  focus on data handling and data visualization.
@@ -16,7 +16,7 @@ Hoping to venture into blockchain and neural networks.
 
 ## 📊 STATS:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya-vanwyk&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[!GitHub stats](https://github-readme-stats.vercel.app/api?username=lavanya-vanwyk)]
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lavanya-vanwyk&icon=0&color=0)](https://visitcount.itsvg.in)
