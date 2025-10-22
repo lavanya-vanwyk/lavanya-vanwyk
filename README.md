@@ -16,7 +16,7 @@ Hoping to venture into blockchain and neural networks.
 
 ## 📊 STATS:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya-vanwyk&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
-![](https://github-readme-stats.vercel.app/api?username=lavanya-vanwyk)]
+![](https://github-readme-stats.vercel.app/api?username=lavanya-vanwyk&show_icons=true&theme=react)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lavanya-vanwyk&icon=0&color=0)](https://visitcount.itsvg.in)
