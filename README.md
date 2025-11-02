@@ -15,5 +15,6 @@ Hoping to venture into blockchain and neural networks.
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) 
 
 ## 📊 STATS:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya-vanwyk&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
+![lavanya-vanwyk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya-vanwyk&theme=prussian&show_icons=true&hide_border=false&layout=compact)
+![lavanya-vanwyk's Stats](https://github-readme-stats.vercel.app/api?username=lavanya-vanwyk&theme=prussian&show_icons=true&hide_border=false&count_private=true)
 
