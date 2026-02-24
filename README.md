@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./banner-nodes.svg" alt="Mathematical Node Animation" width="100%">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaspace&size=48&duration=7000&pause=1000&color=222222&background=002DFF00&center=true&width=526&height=100&lines=Lavanya+van+Wyk)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaspace&size=48&duration=7000&pause=1000&color=A9A9A9&background=002DFF00&center=true&width=526&height=100&lines=Lavanya+van+Wyk)](https://git.io/typing-svg)
   
   ### Full-Stack Developer 
   
