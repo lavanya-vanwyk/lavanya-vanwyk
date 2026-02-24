@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./hero-nodes.svg" alt="Mathematical Node Animation" width="100%">
+  <img src="./banner-nodes.svg" alt="Mathematical Node Animation" width="100%">
 
   # Lavanya van Wyk
   
