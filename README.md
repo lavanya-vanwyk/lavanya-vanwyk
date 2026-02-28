@@ -25,7 +25,11 @@ My focus is on writing robust code and turning complex or operational problems i
 - 🌱 Continuous refinement.
 
 ---
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lavanya-vanwyk)](https://github.com/pranesh-2005/github-readme-stats-fast)
+<div align="center">
+  
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lavanya-vanwyk&show_icons=true&theme=dark)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+</div>
 
 <div align="center">
 
