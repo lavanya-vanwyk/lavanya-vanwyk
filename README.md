@@ -20,9 +20,9 @@ My focus is on writing robust code and turning complex or operational problems i
 * **Tools and Infrastructure:**  Linux, Git, Figma, Docker, Android Studio
 
 ### `// CURRENT_PROCESSES`
-- 🔭 Actively developing full-stack applications, dabbling in mobile app development.
-- ⚡ Exploring new methodologies in data parsing.
-- 🌱 Continuous refinement.
+- 🔭 Actively developing full-stack applications.
+- ⚡ Visit my ['Packages' tab](https://github.com/lavanya-vanwyk?tab=packages) to see what I've recently released!
+
 
 ---
 <div align="center">
