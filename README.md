@@ -16,7 +16,7 @@ My focus is on writing robust code and turning complex or operational problems i
 ### `// TECH_STACK`
 * **Frontend:** React, TailwindCSS, Flutter
 * **Backend:** Python, Dart, Java, JS
-* **Database:** SQL, SQLite
+* **Database:** SQL, SQLite, Redis, PostgreSQL
 * **Tools and Infrastructure:**  Linux, Git, Figma, Docker, Android Studio
 
 ### `// CURRENT_PROCESSES`
